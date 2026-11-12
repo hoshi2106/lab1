@@ -1,4 +1,3 @@
-
 name: Maven Build Test and Docker Push
 
 on:
